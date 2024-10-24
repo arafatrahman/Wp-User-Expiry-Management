@@ -3,7 +3,8 @@
 Plugin Name: WP Temp User Expiry
 Description: Manage temporary user accounts with expiry dates. Allows setting expiry dates when adding users, and handles role changes, notifications, and more when a user expires.
 Version: 1.0
-Author: Your Name
+Author: Arafat Rahman
+Author URI: https://rrrplus.co.uk/
 */
 
 if (!defined('ABSPATH')) {
